@@ -6,4 +6,5 @@ python-docx
 tqdm
 pandas
 python-dotenv
+sentence-transformers
 
